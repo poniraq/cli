@@ -1,5 +1,5 @@
 {
-  "name": "@react-native-community/cli-platform-android",
+  "name": "@poniraq/cli-platform-android",
   "version": "6.3.0",
   "license": "MIT",
   "main": "build/index.js",
@@ -32,10 +32,10 @@
     "@types/lodash": "^4.14.149",
     "@types/xmldoc": "^1.1.4"
   },
-  "homepage": "https://github.com/react-native-community/cli/tree/master/packages/platform-android",
+  "homepage": "https://github.com/poniraq/cli/tree/master/packages/platform-android",
   "repository": {
     "type": "git",
-    "url": "https://github.com/react-native-community/cli.git",
+    "url": "https://github.com/poniraq/cli.git",
     "directory": "packages/platform-android"
   }
 }
